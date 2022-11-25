@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L04_PermCheck import solution
+from codes.L04_PermCheck import solution
 
 
 class PermCheckTest(TestCase):

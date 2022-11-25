@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L04_FrogRiverOne import solution
+from codes.L04_FrogRiverOne import solution
 
 
 class FrogRiverOneTest(TestCase):

@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L02_CyclicRotation import solution
+from codes.L02_CyclicRotation import solution
 
 
 class CyclicRotationTest(TestCase):

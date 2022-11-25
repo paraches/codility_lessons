@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L01_BinaryGap import solution
+from codes.L01_BinaryGap import solution
 
 
 class BinaryGapTest(TestCase):

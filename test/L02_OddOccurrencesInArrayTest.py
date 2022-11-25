@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L02_OddOccurrencesInArray import solution
+from codes.L02_OddOccurrencesInArray import solution
 
 
 class OddOccurrencesInArray(TestCase):

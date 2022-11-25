@@ -1,5 +1,5 @@
 from unittest import TestCase
-from code.L03_PermMissingElem import solution
+from codes.L03_PermMissingElem import solution
 
 
 class PermMissingElemTest(TestCase):
